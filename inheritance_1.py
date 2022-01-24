@@ -28,3 +28,4 @@ OUTPUT==
 #Person name is : **Rishi**
 #Person age is : 24
 """
+###IN THS INHERITANCE SUPER METHOD ALSO CALLED
